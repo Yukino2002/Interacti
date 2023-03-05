@@ -1,4 +1,4 @@
-<h3 align="center">Open Learn</h3>
+<h3 align="center">Interacti</h3>
   <p align="center">
     A computer vision virtual classroom application that leverages computer vision technology to provide an immersive and interactive learning environment for students and teachers in a remote setting.
     <br />
@@ -51,6 +51,7 @@ Our application uses computer vision technology to create virtual classrooms wit
 <ul>
     <li>Python</li>
     <li>OpenCV</li>
+    <li>Keras</li>
     <li>TensorFlow</li>
     <li>Tkinter</li>
     <li>MediaPipe</li>
@@ -142,9 +143,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Malavika Harikumar  - malavikaha02@gmail.com
+Pratik Jallan - pratikjalan11@gmail.com
 
-Project Link: [https://github.com/richard1615/OpenLearn](https://github.com/richard1615/OpenLearn)
+Project Link: [https://github.com/Yukino2002/Interacti](https://github.com/Yukino2002/Interacti)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
