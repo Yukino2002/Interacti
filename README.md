@@ -14,7 +14,7 @@
     A computer vision virtual classroom application that leverages computer vision technology to provide an immersive and interactive learning environment for students and teachers in a remote setting.
     <br />
     <br />
-    <a href="https://github.com/richard1615/OpenLearn">View Demo</a>
+    <a href="https://youtu.be/XMMmAgVsEFY">View Demo</a>
     ·
     <a href="https://github.com/richard1615/OpenLearn/issues">Report Bug</a>
     ·
@@ -113,7 +113,7 @@ The dataset used for training the ML model can be found
 
 ### Demo Links
 <ul>
-    <li><a>Video Demo</a></li>
+    <li><a href="https://youtu.be/XMMmAgVsEFY">Video Demo</a></li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -126,7 +126,7 @@ The dataset used for training the ML model can be found
 - [ ] Video editing: A built-in video editor could be added to allow users to edit and enhance their recorded videos.
 - [ ] Cloud storage: A cloud storage feature could be added to allow users to store their recorded videos securely and access them from anywhere.
 
-See the [open issues](https://github.com/richard1615/OpenLearn/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Yukino2002/Interacti/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
