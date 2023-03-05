@@ -53,6 +53,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+![Product Name Screen Shot][product-screenshot]
+
 Our application uses computer vision technology to create virtual classrooms with real-time interactions and machine learning models to generate transcripts of real-time writing. With a user-friendly tkinter GUI, this app enhances the virtual learning experience for teachers and students.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -123,7 +125,6 @@ The dataset used for training the ML model can be found
 
 - [ ] A screen recording feature could be added to allow users to record their entire screen or a specific window while recording a video.
 - [ ] Integration with Learning Management Systems (LMS): The application could be integrated with popular LMS platforms to streamline the classroom experience for both teachers and students.
-- [ ] Video editing: A built-in video editor could be added to allow users to edit and enhance their recorded videos.
 - [ ] Cloud storage: A cloud storage feature could be added to allow users to store their recorded videos securely and access them from anywhere.
 
 See the [open issues](https://github.com/Yukino2002/Interacti/issues) for a full list of proposed features (and known issues).
@@ -181,7 +182,7 @@ Project Link: [https://github.com/Yukino2002/Interacti](https://github.com/Yukin
 [license-url]: https://github.com/Yukino2002/Interacti/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/asimjawahir
-[product-screenshot]: ./images/Interacti.png
+[product-screenshot]: ./writing.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
