@@ -16,9 +16,9 @@
     <br />
     <a href="https://youtu.be/XMMmAgVsEFY">View Demo</a>
     ·
-    <a href="https://github.com/richard1615/OpenLearn/issues">Report Bug</a>
+    <a href="https://github.com/Yukino2002/Interacti/issues">Report Bug</a>
     ·
-    <a href="https://github.com/richard1615/OpenLearn/issues">Request Feature</a>
+    <a href="https://github.com/Yukino2002/Interacti/issues">Request Feature</a>
   </p>
 
 
